@@ -1,0 +1,11 @@
+const lastname = `shiraishi`
+const firstname = `daizou`
+const fullname = lastname + ` ` + firstname
+const myAge = 25
+const friendAge = 53
+const totalAge = myAge + friendAge
+const numberOfDays = totalAge * 365
+const numberOfChildren = 3
+const numberOfCakes = 10
+const numberOfCakesByChild = numberOfCakes / numberOfChildren
+const numberOfRestOfCakes = numberOfCakes % numberOfChildren
